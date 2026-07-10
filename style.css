@@ -15,3 +15,11 @@
 body {
 	background-color: #0C12527;
 }
+.box1 {
+	background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=JCwJtCrT&id=32EA9B39457B137D2EC7771064CC733A9949F4AE&thid=OIP.JCwJtCrT80iEQUgDrPqmPgAAAA&mediaurl=https%3a%2f%2fthumbs.worthpoint.com%2fzoom%2fimages1%2f1%2f0722%2f01%2fyoutooz-technoblade-technoplane-plush_1_6b38ae4a14e211e508f4a42b2ceaf825.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.242c09b42ad3f34884414803acfaa63e%3frik%3drvRJmTpzzGQQdw%26pid%3dImgRaw%26r%3d0&exph=500&expw=348&q=technoplane&FORM=IRPRST&ck=F36B404FD57C689348BEC71A67AAB465&selectedIndex=14&itb=0');
+	backround-repeat: repeat;
+	height: 150px;
+	width: 150px;
+	border: 1px solid;
+	margin-bottom: 10px;
+}
