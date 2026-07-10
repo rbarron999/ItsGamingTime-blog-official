@@ -18,8 +18,8 @@ body {
 .box1 {
 	background-image: url('https://static.wikia.nocookie.net/the-youtooz/images/0/03/Technoplane_10.jpg/revision/latest/scale-to-width-down/250?cb=20200930155949');
 	backround-repeat: repeat;
-	height: 100px;
-	width: 100px;
+	height: 1000px;
+	width: 1000px;
 	border: 1px solid;
 	margin-bottom: 10px;
 }
